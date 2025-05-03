@@ -1,7 +1,7 @@
 
 # 💾 Desafios de Lógica - PHP Puro
 
-Bem-vindo ao repositório de **desafios de lógica de programação da Universidade de Federal de Uberlândia - UFU**, focado em **vetores e matrizes**, usando **PHP** os desafios são em C mas eu uso php.
+Bem-vindo ao repositório de **desafios de lógica de programação da lista da Universidade de Federal de Uberlândia - UFU**, focado em **vetores e matrizes**, usando **PHP** os desafios são em C mas eu uso php.
 
 ## 🧠 Objetivo
 
