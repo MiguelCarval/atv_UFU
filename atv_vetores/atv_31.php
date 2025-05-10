@@ -20,12 +20,10 @@ for($i = 0; $i < 10; $i++){
 }
 
 
-foreach($V1 as $valores){
-    if(!in_array($valores, $V2)){
-        $V3[] = $valores;
-    }
-}
+$V3 = array_values(array_unique(array_merge($V1,$V2)));
 
+
+echo "Vetor de união";
 print_r($V3);
 
 ?>
