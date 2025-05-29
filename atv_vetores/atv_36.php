@@ -1,4 +1,4 @@
-<!--Atividade 35: Vetores -->
+<!--Atividade 36: Vetores -->
 <?php
 
 echo "Digite 10 valores para o vetor: \n";
